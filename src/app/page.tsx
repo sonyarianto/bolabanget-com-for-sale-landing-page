@@ -29,11 +29,11 @@ export default function Home() {
                 <p className="ml-3">
                   Price{" "}
                   <code className="font-mono font-medium text-gray-950 dark:text-white">
-                    USD 19.000
+                    USD 29.000
                   </code>{" "}
                   or{" "}
                   <code className="font-mono font-medium text-gray-950 dark:text-white">
-                    IDR 319.000.000
+                    IDR 499.000.000
                   </code>
                   .
                 </p>
